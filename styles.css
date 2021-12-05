@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+  }
+  
+  h2 {
+    color: green;
+  }
+  th {
+    background-color: lightgreen;
+  }
+  
+  td {
+    border: 1px solid green;
+    text-align: left;
+  }
+  
+  table {
+    border: 3px solid green;
+    margin: 0 auto;
+  }
+
+  .tag {
+    font-family: monospace;
+    background-color: azure;
+  }
